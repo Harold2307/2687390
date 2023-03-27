@@ -55,3 +55,4 @@ public class persoma2 {
             System.out.println("El peso"+peso_actual+"esta por debajo de lo ideal");
     }
 }
+}
